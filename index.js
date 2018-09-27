@@ -24,6 +24,10 @@ function johnLennonFacts(facts){
 
 // begining of third function
 function iLoveTheBeatles(n) {
-  do while {}
+  do {
+    
+  } while {
+    
+  }
   
 }
