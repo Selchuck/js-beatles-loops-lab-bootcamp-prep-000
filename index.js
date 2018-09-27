@@ -23,3 +23,8 @@ function johnLennonFacts(facts){
 // end of second function
 
 // begining of third function
+function iLoveTheBeatles(n) {
+  var emptyArr = [];
+  do
+    emptyArr.push("I love the Beatles!");
+}
