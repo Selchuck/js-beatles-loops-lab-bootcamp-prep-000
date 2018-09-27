@@ -23,3 +23,7 @@ function johnLennonFacts(facts){
 // end of second function
 
 // begining of third function
+function iLoveTheBeatles(n) {
+  do
+  
+}
