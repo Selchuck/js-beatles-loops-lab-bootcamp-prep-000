@@ -1,4 +1,4 @@
-// begining of first function
+
 function theBeatlesPlay(musician, instruments) {
   let emptyArray = [];
   for(let i = 0; i < musician.length; i++){
@@ -7,10 +7,7 @@ function theBeatlesPlay(musician, instruments) {
   }
   return emptyArray;
 }
-// end of first function
 
-
-// begining of second function
 function johnLennonFacts(facts){
   let array = [];
   let i = 0;
@@ -20,14 +17,12 @@ function johnLennonFacts(facts){
   }
   return array;
 }
-// end of second function
 
-// begining of third function
 function iLoveTheBeatles(n) {
   let emptyArr = [];
   do {
     emptyArr.push("I love the Beatles!");
     n++;
   } while (n < 15;);
-  
+  return emptyArr;
 }
