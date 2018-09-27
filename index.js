@@ -25,5 +25,5 @@ function johnLennonFacts(facts){
 // begining of third function
 function iLoveTheBeatles(n){
   var emptyArr = [];
-  
+  do 
 }
