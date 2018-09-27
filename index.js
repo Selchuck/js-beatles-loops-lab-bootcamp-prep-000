@@ -1,8 +1,8 @@
 // begining of first function
 function theBeatlesPlay(musician, instruments) {
   let emptyArray = [];
-  for(var i = 0; i < musician.length; i++){
-    var string= musician[0] + instruments[0];
+  for(let i = 0; i < musician.length; i++){
+    let string= musician[0] + instruments[0];
     emptyArray.push(musician[i] + " plays " + instruments[i] );
   }
   return emptyArray;
@@ -11,11 +11,11 @@ function theBeatlesPlay(musician, instruments) {
 
 
 // begining of second function
-function johnLennonFacts(argument){
-  var array = [];
-  var i = 0;
-  while (i < argument.length){
-    array.push(argument[i] + "!!!");
+function johnLennonFacts(facts){
+  let array = [];
+  let i = 0;
+  while (i < facts.length){
+    array.push(facts[i] + "!!!");
     i++;
   }
   return array;
